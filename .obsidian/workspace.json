@@ -4,29 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "773e1689b9cb7258",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aa18e35805bc8ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Python Virtual Environments (VEnv).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "e55df3e3146bd90e",
         "type": "tabs",
         "children": [
           {
             "id": "b81fc71fd8b4fe5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Back-End/Back-End.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f93ff087722f912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Back-End/Node JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fca8f4c356f2a665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be40f8a4624d6d01",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -99,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Back-End/Node JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Back-End/Node JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Back-End/Node JS.md"
+              }
             }
           }
         ]
@@ -156,12 +173,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b81fc71fd8b4fe5d",
+  "active": "4f93ff087722f912",
   "lastOpenFiles": [
-    "Python/Python Virtual Environments (VEnv).md",
-    "AI and Machine Learning/ML/Supervised Learning.md",
-    "Python/Installing Packages (pip).md",
+    "Back-End/Back-End.md",
+    "Back-End/Node JS.md",
     "Python/Python.md",
+    "Python/Python Virtual Environments (VEnv).md",
+    "Python/Installing Packages (pip).md",
+    "2024-06-18.md",
+    "AI and Machine Learning/ML/Supervised Learning.md",
     "AI and Machine Learning/ML/Regression Models.md",
     "AI and Machine Learning/ML/Unsupervised Learning.md",
     "AI and Machine Learning/ML/ML.md",
@@ -173,7 +193,6 @@
     "Front-End/Interesting Links FE.md",
     "Front-End/Front-End.md",
     "Front-End/CMS's.md",
-    "Back-End/Back-End.md",
     "Python",
     "Central Core.md",
     "AI and Machine Learning/Classification Models.md",

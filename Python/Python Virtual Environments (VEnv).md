@@ -6,7 +6,8 @@ Create env:
 ```python -m venv <env name (commonly just env)>```
 
 Start env:
-```env\Scripts\activate.bat```
+```env\Scripts\activate.bat``` (Command prompt)
+```source env/Scripts/activate``` (Bash)
 
 Exit/Stop env:
 ```deactivate```
