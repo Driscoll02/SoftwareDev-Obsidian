@@ -3,7 +3,7 @@ A virtual environment in Python is nothing more than a directory (folder). It is
 ## Command list:
 
 Create env:
-```python -m venv <env name (commonly just env)>```
+```python -m venv <env name (commonly just venv)>```
 
 Start env:
 ```env\Scripts\activate.bat``` (Command prompt)

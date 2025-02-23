@@ -10,6 +10,6 @@ NodeJS is single-threaded, which means it's great for building fast and scalable
 
 Node JS has two main dependencies, the `V8 engine`, and `libuv`. Libuv is an open source library which manages asynchronous input/output actions as well as providing node access to the underlying OS, the file system, and networking. 
 
-Libuv also implements two of the most important features of Node JS, the event loop, and the thread pool. Libuv is entirely written in c++ and the V8 engine is written in JS and c++.
+Libuv also implements two of the most important features of Node JS, the event loop, and the thread pool. Libuv is entirely written in C++ and the V8 engine is written in JS and C++.
 
 Node JS also has 4 smaller dependencies, `http-parser`, `c-ares`, `OpenSSL`, and `zlib`.

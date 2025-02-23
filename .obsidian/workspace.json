@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Back-End/Back-End.md",
+                "file": "Python/Installing Packages (pip).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Installing Packages (pip)"
             }
           },
           {
@@ -25,17 +27,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Back-End/Node JS.md",
+                "file": "Front-End/Front-End.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Front-End"
+            }
+          },
+          {
+            "id": "41baa0669732a202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-End/Redux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redux"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
-        "id": "fca8f4c356f2a665",
+        "id": "d88a3db6f2809b28",
         "type": "tabs",
         "children": [
           {
@@ -43,7 +61,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -65,8 +85,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -81,7 +104,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -89,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -112,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Back-End/Node JS.md",
+                "file": "Front-End/Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +147,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Redux"
             }
           },
           {
@@ -129,10 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Back-End/Node JS.md",
+                "file": "Front-End/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Redux"
             }
           },
           {
@@ -143,7 +174,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -152,8 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Back-End/Node JS.md"
-              }
+                "file": "Front-End/Redux.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Redux"
             }
           }
         ]
@@ -173,17 +208,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f93ff087722f912",
+  "active": "be40f8a4624d6d01",
   "lastOpenFiles": [
-    "Back-End/Back-End.md",
     "Back-End/Node JS.md",
-    "Python/Python.md",
-    "Python/Python Virtual Environments (VEnv).md",
+    "Front-End/Redux.md",
     "Python/Installing Packages (pip).md",
-    "2024-06-18.md",
-    "AI and Machine Learning/ML/Supervised Learning.md",
+    "Python/Python Virtual Environments (VEnv).md",
+    "Back-End/Back-End.md",
+    "Front-End/CMS's.md",
     "AI and Machine Learning/ML/Regression Models.md",
     "AI and Machine Learning/ML/Unsupervised Learning.md",
+    "Python/Python.md",
+    "Front-End/Front-End.md",
+    "2024-06-18.md",
+    "AI and Machine Learning/ML/Supervised Learning.md",
     "AI and Machine Learning/ML/ML.md",
     "AI and Machine Learning/ML/Generative AI.md",
     "AI and Machine Learning/ML/Classification Models.md",
@@ -191,8 +229,6 @@
     "AI and Machine Learning/Interesting Links AI.md",
     "AI and Machine Learning/LLMs.md",
     "Front-End/Interesting Links FE.md",
-    "Front-End/Front-End.md",
-    "Front-End/CMS's.md",
     "Python",
     "Central Core.md",
     "AI and Machine Learning/Classification Models.md",
@@ -204,7 +240,6 @@
     "Back-End",
     "AI and Machine Learning",
     "Front-End",
-    "Welcome.md",
-    "create a link.md"
+    "Welcome.md"
   ]
 }
