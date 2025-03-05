@@ -1,0 +1,3 @@
+For a full explanation of SBERT models, you can read here: [[SBERT Models]].
+
+Initially

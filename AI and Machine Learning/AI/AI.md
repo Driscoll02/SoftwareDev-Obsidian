@@ -4,6 +4,7 @@ Current notes include:
 
 -  Machine Learning: [[ML]]
 -  LLMs: [[LLMs]]
+- AI Agents: [[Agents]]
   
 ## Interesting AI links
 
