@@ -8,3 +8,4 @@ There are 4 main areas of machine learning to be aware of:
 There are also notes here on important concepts such as:
 
 - [[Vector Embeddings]]
+- [[Similarity Search Notes]]

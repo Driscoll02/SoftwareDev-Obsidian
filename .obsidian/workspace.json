@@ -6,7 +6,7 @@
       {
         "id": "e55df3e3146bd90e",
         "type": "tabs",
-        "dimension": 60.64981949458483,
+        "dimension": 74.50361010830325,
         "children": [
           {
             "id": "b81fc71fd8b4fe5d",
@@ -37,17 +37,17 @@
             }
           },
           {
-            "id": "ee12a001aa8398fc",
+            "id": "73e47c3395a02e16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI and Machine Learning/AI/ML/Vector Embeddings/BERT Models.md",
+                "file": "AI and Machine Learning/AI/ML/Similarity Search Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BERT Models"
+              "title": "Similarity Search Notes"
             }
           }
         ],
@@ -56,7 +56,7 @@
       {
         "id": "d88a3db6f2809b28",
         "type": "tabs",
-        "dimension": 39.35018050541516,
+        "dimension": 25.49638989169675,
         "children": [
           {
             "id": "be40f8a4624d6d01",
@@ -213,34 +213,34 @@
   },
   "active": "f3ea56fce57a0084",
   "lastOpenFiles": [
-    "AI and Machine Learning/AI/ML/Vector Embeddings/Cosine vs Euclidean.md",
-    "AI and Machine Learning/AI/ML/Vector Embeddings/SBERT Models.md",
+    "AI and Machine Learning/AI/ML/Similarity Search Notes.md",
+    "Untitled.md",
     "AI and Machine Learning/AI/ML/Vector Embeddings/BERT Models.md",
+    "AI and Machine Learning/AI/ML/ML.md",
+    "AI and Machine Learning/AI/ML/Vector Embeddings/SBERT Models.md",
     "AI and Machine Learning/AI/ML/Vector Embeddings/SBERT vs Gemini Embeddings.md",
-    "AI and Machine Learning/AI/ML/Vector Embeddings/Vector Embeddings.md",
+    "AI and Machine Learning/AI/ML/Vector Embeddings/Cosine vs Euclidean.md",
     "AI and Machine Learning/AI/ML/Vector Embeddings/Embedding Benchmarks.md",
+    "Front-End/Interesting Links FE.md",
+    "AI and Machine Learning/AI/ML/Vector Embeddings/Vector Embeddings.md",
+    "AI and Machine Learning/AI/ML/Unsupervised Learning.md",
+    "AI and Machine Learning/AI/ML/Supervised Learning.md",
+    "AI and Machine Learning/AI/ML/Reinforcement Learning.md",
+    "AI and Machine Learning/AI/ML/Regression Models.md",
+    "AI and Machine Learning/AI/ML/Generative AI.md",
     "AI and Machine Learning/AI/ML/Classification Models.md",
+    "AI and Machine Learning/AI/Agents/Building production ready agents.md",
+    "AI and Machine Learning/AI/Agents/Agents.md",
     "Central Core.md",
     "Python/Python Virtual Environments (VEnv).md",
     "Python/Python.md",
     "Python/Installing Packages (pip).md",
-    "Front-End/Interesting Links FE.md",
     "Front-End/Front-End.md",
     "Front-End/CMS's.md",
     "Back-End/Node JS.md",
     "Back-End/Back-End.md",
     "AI and Machine Learning/AI/ML/Vector Embeddings/Embedding Benchmarks",
-    "AI and Machine Learning/AI/ML/ML.md",
-    "AI and Machine Learning/AI/ML/Generative AI.md",
-    "AI and Machine Learning/AI/AI.md",
     "AI and Machine Learning/AI/ML/Vector Embeddings",
-    "AI and Machine Learning/AI/Agents/Building production ready agents.md",
-    "AI and Machine Learning/LLMs.md",
-    "AI and Machine Learning/Interesting Links AI.md",
-    "AI and Machine Learning/AI/Agents/Agents.md",
-    "Front-End/Redux.md",
-    "AI and Machine Learning/AI/ML/Reinforcement Learning.md",
-    "AI and Machine Learning/AI/ML/Regression Models.md",
     "AI and Machine Learning/AI/Agents",
     "AI and Machine Learning/AI",
     "Python",
