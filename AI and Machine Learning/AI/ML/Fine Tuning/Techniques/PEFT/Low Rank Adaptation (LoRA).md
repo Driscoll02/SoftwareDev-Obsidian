@@ -88,9 +88,19 @@ For developers wanting more **_fine-tuned_** control over the process, these too
 
 These are great for if you don't have the hardware required to train models locally.
 
-1. **[Lightning AI](https://lightning.ai/)**: Uses an embedded version of VS Code and has a somewhat generous free tier. Has functionality for deploying and hosting of fine-tuned models.
+1. **[Lightning AI](https://lightning.ai/)**
 
-2. **[Google Colab](https://colab.research.google.com/)**: Not strictly only for ML work but provides limited access to free 16GB VRAM GPUs, good enough for small model fine tuning. Pro version is slightly cheaper than Lightning AI's pro version.
+   - Embedded VS Code UI so it's familiar to most developers
+   - Offers free 35 GPU hours (as of writing)
+   - Great for structured workflows and team projects
+   - Also supports deployment and serving for inference
+   - Slightly more robust option for enterprise applications
+
+2. **[Google Colab](https://colab.research.google.com/)**
+
+   - Free access to GPUs (T4, sometimes A100s with Colab Pro)
+   - Very flexible for hobby projects or trying new things for proof of concepts
+   - Recommended for trying out Axolotl or Hugging Face-based scripts
 
 ### Inferencing tools
 
