@@ -88,13 +88,15 @@ For developers wanting more **_fine-tuned_** control over the process, these too
 
 These are great for if you don't have the hardware required to train models locally.
 
-**[Lightning AI](https://lightning.ai/)**: Uses an embedded version of VS Code and has a somewhat generous free tier. Has functionality for deploying and hosting of fine-tuned models.
-**[Google Colab](https://colab.research.google.com/)**: Not strictly only for ML work but provides limited access to free 16GB VRAM GPUs, good enough for small model fine tuning. Pro version is slightly cheaper than Lightning AI's pro version.
+1. **[Lightning AI](https://lightning.ai/)**: Uses an embedded version of VS Code and has a somewhat generous free tier. Has functionality for deploying and hosting of fine-tuned models.
+
+2. **[Google Colab](https://colab.research.google.com/)**: Not strictly only for ML work but provides limited access to free 16GB VRAM GPUs, good enough for small model fine tuning. Pro version is slightly cheaper than Lightning AI's pro version.
 
 ### Inferencing tools
 
-- **[transformers.js](https://github.com/xenova/transformers.js)** – Hugging Face models, inference only. While it doesn’t support LoRA directly, you can merge LoRA weights into a base model before exporting (via `peft_model.merge_and_unload()` from the Python `peft` library before saving with `transformers`).
-- **[ONNX Runtime Web](https://www.npmjs.com/package/onnxruntime-web)** – Load exported [[ONNX]] models with merged LoRA weights.
+1. **[transformers.js](https://github.com/xenova/transformers.js)** – Hugging Face models, inference only. While it doesn’t support LoRA directly, you can merge LoRA weights into a base model before exporting (via `peft_model.merge_and_unload()` from the Python `peft` library before saving with `transformers`).
+
+2. **[ONNX Runtime Web](https://www.npmjs.com/package/onnxruntime-web)** – Load exported [[ONNX]] models with merged LoRA weights.
 
 ## The theory of how LoRA works
 

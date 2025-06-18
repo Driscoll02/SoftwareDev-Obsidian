@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI and Machine Learning/AI/ML/Fine Tuning/Precision in LLMs.md",
+                "file": "AI and Machine Learning/AI/ML/Fine Tuning/Techniques/PEFT/Low Rank Adaptation (LoRA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Precision in LLMs"
+              "title": "Low Rank Adaptation (LoRA)"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "39e94db68f612c11",
   "lastOpenFiles": [
+    "AI and Machine Learning/AI/ML/Fine Tuning/Precision in LLMs.md",
     "AI and Machine Learning/AI/ML/Fine Tuning/Techniques/PEFT/Low Rank Adaptation (LoRA).md",
     "AI and Machine Learning/AI/ML/Fine Tuning/Fine Tuning.md",
     "AI and Machine Learning/AI/ML/Fine Tuning/Techniques/Full Fine-Tuning.md",
@@ -178,7 +179,6 @@
     "Front-End/React/React Error Boundaries.md",
     "Front-End/Redux.md",
     "AI and Machine Learning/AI/Agents/Building production ready agents.md",
-    "AI and Machine Learning/AI/ML/Fine Tuning/Precision in LLMs.md",
     "AI and Machine Learning/AI/LLMs.md",
     "AI and Machine Learning/AI/ML/Fine Tuning/Techniques",
     "AI and Machine Learning/AI/ML/Quantised Models.md",
