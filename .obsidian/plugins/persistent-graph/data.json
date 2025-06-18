@@ -1,0 +1,155 @@
+{
+  "nodePositions": [
+    {
+      "id": "AI and Machine Learning/AI/AI.md",
+      "x": -238.58595275878906,
+      "y": -199.82630920410156
+    },
+    {
+      "id": "AI and Machine Learning/AI/Agents/Agents.md",
+      "x": -492.8626403808594,
+      "y": -313.3812561035156
+    },
+    {
+      "id": "AI and Machine Learning/AI/Agents/Building production ready agents.md",
+      "x": -668.7467651367188,
+      "y": -120.673583984375
+    },
+    {
+      "id": "AI and Machine Learning/AI/ML/Classification Models.md",
+      "x": -182.22169494628906,
+      "y": -560.712646484375
+    },
+    {
+      "id": "AI and Machine Learning/AI/ML/Generative AI.md",
+      "x": 21.398921966552734,
+      "y": 188.7900848388672
+    },
+    {
+      "id": "AI and Machine Learning/AI/ML/ML.md",
+      "x": -215.6366729736328,
+      "y": 36.39338302612305
+    },
+    {
+      "id": "AI and Machine Learning/AI/ML/Regression Models.md",
+      "x": -1.5650731325149536,
+      "y": -530.890380859375
+    },
+    {
+      "id": "AI and Machine Learning/AI/ML/Reinforcement Learning.md",
+      "x": -59.521793365478516,
+      "y": 277.40557861328125
+    },
+    {
+      "id": "AI and Machine Learning/AI/ML/Similarity Search Notes.md",
+      "x": -174.824951171875,
+      "y": 310.64599609375
+    },
+    {
+      "id": "AI and Machine Learning/AI/ML/Supervised Learning.md",
+      "x": -136.69943237304688,
+      "y": -287.151123046875
+    },
+    {
+      "id": "AI and Machine Learning/AI/ML/Unsupervised Learning.md",
+      "x": 56.339691162109375,
+      "y": 59.927337646484375
+    },
+    {
+      "id": "AI and Machine Learning/AI/ML/Vector Embeddings/BERT Models.md",
+      "x": -270.669921875,
+      "y": 615.2511596679688
+    },
+    {
+      "id": "AI and Machine Learning/AI/ML/Vector Embeddings/Cosine vs Euclidean.md",
+      "x": -296.3562927246094,
+      "y": 347.99761962890625
+    },
+    {
+      "id": "AI and Machine Learning/AI/ML/Vector Embeddings/Embedding Benchmarks.md",
+      "x": -540.1707763671875,
+      "y": 342.3056335449219
+    },
+    {
+      "id": "AI and Machine Learning/AI/ML/Vector Embeddings/SBERT Models.md",
+      "x": -522.9290771484375,
+      "y": 477.6516418457031
+    },
+    {
+      "id": "AI and Machine Learning/AI/ML/Vector Embeddings/SBERT vs Gemini Embeddings.md",
+      "x": -709.9526977539062,
+      "y": 209.06275939941406
+    },
+    {
+      "id": "AI and Machine Learning/AI/ML/Vector Embeddings/Vector Embeddings.md",
+      "x": -467.8810729980469,
+      "y": 90.16341400146484
+    },
+    {
+      "id": "AI and Machine Learning/Interesting Links AI.md",
+      "x": -362.5658874511719,
+      "y": -446.864013671875
+    },
+    {
+      "id": "AI and Machine Learning/LLMs.md",
+      "x": 19.50386619567871,
+      "y": -163.4458465576172
+    },
+    {
+      "id": "Back-End/Back-End.md",
+      "x": 224.97288513183594,
+      "y": -373.29833984375
+    },
+    {
+      "id": "Back-End/Node JS.md",
+      "x": 381.45379638671875,
+      "y": -575.4806518554688
+    },
+    {
+      "id": "Central Core.md",
+      "x": 158.219482421875,
+      "y": -113.77083587646484
+    },
+    {
+      "id": "Front-End/CMS's.md",
+      "x": 365.6482238769531,
+      "y": -107.26232147216797
+    },
+    {
+      "id": "Front-End/Front-End.md",
+      "x": 349.14385986328125,
+      "y": 170.80718994140625
+    },
+    {
+      "id": "Front-End/Interesting Links FE.md",
+      "x": 613.9296264648438,
+      "y": 204.34713745117188
+    },
+    {
+      "id": "Front-End/React/React Error Boundaries.md",
+      "x": 474.33905029296875,
+      "y": 412.3525695800781
+    },
+    {
+      "id": "Front-End/Redux.md",
+      "x": 282.08697509765625,
+      "y": 441.8695068359375
+    },
+    {
+      "id": "Python/Installing Packages (pip).md",
+      "x": 665.07763671875,
+      "y": -346.019775390625
+    },
+    {
+      "id": "Python/Python Virtual Environments (VEnv).md",
+      "x": 610.5504760742188,
+      "y": -87.16455841064453
+    },
+    {
+      "id": "Python/Python.md",
+      "x": 414.6891784667969,
+      "y": -294.7347717285156
+    }
+  ],
+  "automaticallyRestoreNodePositions": false
+}
