@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI and Machine Learning/AI/ML/Fine Tuning/Techniques/PEFT/Low Rank Adaptation (LoRA).md",
+                "file": "AI and Machine Learning/AI/ML/Fine Tuning/Quantised Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Low Rank Adaptation (LoRA)"
+              "title": "Quantised Models"
             }
           }
         ]
@@ -167,14 +167,19 @@
   "active": "39e94db68f612c11",
   "lastOpenFiles": [
     "AI and Machine Learning/AI/ML/Fine Tuning/Precision in LLMs.md",
+    "Computer Science Concepts/Floating Point Numbers.md",
+    "Computer Science Concepts",
+    "AI and Machine Learning/AI/ML/Fine Tuning/Quantised Models.md",
     "AI and Machine Learning/AI/ML/Fine Tuning/Techniques/PEFT/Low Rank Adaptation (LoRA).md",
     "AI and Machine Learning/AI/ML/Fine Tuning/Fine Tuning.md",
+    "AI and Machine Learning/AI/ML/Fine Tuning/Techniques/PEFT/PEFT.md",
+    "images/Pasted image 20250619213153.png",
+    "images",
     "AI and Machine Learning/AI/ML/Fine Tuning/Techniques/Full Fine-Tuning.md",
     "AI and Machine Learning/AI/ML/Vector Embeddings/Embedding Benchmarks.md",
     "Python/Python Virtual Environments (VEnv).md",
     "Python/Python.md",
     "Python/Installing Packages (pip).md",
-    "AI and Machine Learning/AI/ML/Fine Tuning/Techniques/PEFT/PEFT.md",
     "AI and Machine Learning/AI/ML/Fine Tuning/Techniques/RLHF.md",
     "Front-End/React/React Error Boundaries.md",
     "Front-End/Redux.md",
@@ -193,14 +198,10 @@
     "Front-End/Front-End.md",
     "Front-End/React",
     "AI and Machine Learning/AI/ML/Reinforcement Learning.md",
-    "Untitled.md",
-    "AI and Machine Learning/AI/ML/Vector Embeddings/BERT Models.md",
     "AI and Machine Learning/AI/ML/Vector Embeddings/Embedding Benchmarks",
     "AI and Machine Learning/AI/ML/Vector Embeddings",
     "AI and Machine Learning/AI/Agents",
     "AI and Machine Learning/AI",
-    "Python",
-    "AI and Machine Learning/AI/ML",
-    "Back-End"
+    "Python"
   ]
 }

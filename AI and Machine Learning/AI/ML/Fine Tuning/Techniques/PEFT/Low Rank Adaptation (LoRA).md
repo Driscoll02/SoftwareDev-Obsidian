@@ -84,7 +84,7 @@ For developers wanting more **_fine-tuned_** control over the process, these too
    - **[DeepSpeed](https://www.deepspeed.ai/)**: A deep learning optimisation library created by Microsoft designed to train large-scale models with billions of parameters faster, with less memory, and on cheaper hardware.
    - Useful for teams who want to train larger models on limited hardware via memory optimisation.
 
-## Cloud Training Platforms
+### Cloud Training Platforms
 
 These are great for if you don't have the hardware required to train models locally.
 
